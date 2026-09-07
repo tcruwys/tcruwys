@@ -1,6 +1,6 @@
 ## Hi there 👋
 The following repository contains my GitHub portfolio for IS 3060.
-Website = https://github.com/tcruwys/tcruwys
+Website = https://github.com/tcruwys
 <!--
 **tcruwys/tcruwys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
